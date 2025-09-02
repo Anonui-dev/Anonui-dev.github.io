@@ -18,8 +18,8 @@ export const baseOptions: BaseLayoutProps = {
           src="/favicon.png"
           alt="Logo"
         />
-        Ejunz
+        Ejunz-AnonUI
       </>
     ),
   },
-};
+};  
