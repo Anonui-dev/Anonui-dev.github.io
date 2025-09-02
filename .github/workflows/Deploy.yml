@@ -31,7 +31,7 @@ jobs:
       - name: Install
         run: yarn
       - name: Build
-        run: yarn build && echo "docs.ejunz.com" >./out/CNAME
+        run: yarn build && echo "anonui-dev.ejunz.com" >./out/CNAME
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
